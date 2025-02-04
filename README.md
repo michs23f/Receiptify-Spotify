@@ -23,7 +23,7 @@ This project aims to create a web application that allows users to visualize the
 **Author:**
 
 * **Name:** John Doe 
-* **Email:** john.doe@example.com
+* **Email:** uhbdfvhbfd765@gmail.com
 * **Website:** [Receiptify Spotify](https://www.receiptifys.com) 
 
 **Getting Started:**
